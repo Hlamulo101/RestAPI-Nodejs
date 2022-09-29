@@ -1,0 +1,16 @@
+{
+  "name": "restapi-nodejs",
+  "version": "1.0.0",
+  "description": "A Node.js RESTful API Shop Product Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hlamulo Witness Masonta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "http-server": "^14.1.1"
+  }
+}
